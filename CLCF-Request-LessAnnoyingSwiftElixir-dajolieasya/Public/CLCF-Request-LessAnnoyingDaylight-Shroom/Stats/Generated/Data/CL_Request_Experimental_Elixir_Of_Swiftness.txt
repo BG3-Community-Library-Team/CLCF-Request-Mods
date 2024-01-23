@@ -1,5 +1,0 @@
-new entry "Experimental_Elixir_Of_Swiftness"
-type "StatusData"
-data "StatusType" "BOOST"
-using "Experimental_Elixir_Of_Swiftness"
-data "ApplyEffect" ""
