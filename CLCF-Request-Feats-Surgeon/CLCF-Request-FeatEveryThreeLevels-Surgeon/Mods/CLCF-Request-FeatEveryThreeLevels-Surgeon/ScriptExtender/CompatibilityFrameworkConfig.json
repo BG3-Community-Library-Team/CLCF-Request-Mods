@@ -1,0 +1,41 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+   {
+    "UUIDs": [
+      
+      "19d8e1d6-6c62-4603-b382-70bf2c7bf462",
+      
+      
+      "3c297a6c-ae4c-464e-9233-944245835943",
+      
+      
+      "fcddf233-6ead-44e6-9e04-0625012de2b6",
+      
+      
+      "a59aad40-d4dc-4b31-99a4-a615efdd4bfb"
+    ],
+    "Booleans": [
+      {
+        "Key": "AllowImprovement",
+        "Value": true,
+        "modGuid": "35176b84-2add-4c04-b2a3-0deae40eea37"
+      }
+    ]
+   },
+   {
+    "UUIDs": [
+      "e0726f7a-c995-48a2-b158-5b435028b28d",
+      "a6117362-7020-4236-afdf-1f885dfc26a5"
+    ],
+    "Booleans": [
+      {
+        "Key": "AllowImprovement",
+        "Value": false,
+        "modGuid": "35176b84-2add-4c04-b2a3-0deae40eea37"
+        
+      }
+    ]
+   }
+  ]
+}

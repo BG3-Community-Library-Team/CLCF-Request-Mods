@@ -1,0 +1,27 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+   {
+    "UUIDs": [
+      "12ba6c87-e2cc-4b66-9e98-2eb1ef48fcfb",
+      "19d8e1d6-6c62-4603-b382-70bf2c7bf462",
+      "e0726f7a-c995-48a2-b158-5b435028b28d",
+      "4daf4460-57d7-4b9f-96eb-74e0c16e077d",
+      "3c297a6c-ae4c-464e-9233-944245835943",
+      "9af7edfd-3f5e-4c53-9ea1-4d1242d62940",
+      "a6117362-7020-4236-afdf-1f885dfc26a5",
+      "fcddf233-6ead-44e6-9e04-0625012de2b6",
+      "aee36c35-6eac-4de3-ad63-4fb0dd85b1f8",
+      "a0f87489-e575-44df-b816-b5407b5b2985",
+      "a59aad40-d4dc-4b31-99a4-a615efdd4bfb"
+    ],
+    "Booleans": [
+      {
+        "Key": "AllowImprovement",
+        "Value": true,
+        "modGuid": "35176b84-2add-4c04-b2a3-0deae40eea37"
+      }
+    ]
+   }
+  ]
+}
