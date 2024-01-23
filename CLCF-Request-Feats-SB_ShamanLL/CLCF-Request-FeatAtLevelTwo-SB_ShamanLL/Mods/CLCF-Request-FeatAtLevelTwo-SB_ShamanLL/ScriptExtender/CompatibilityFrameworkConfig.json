@@ -1,0 +1,17 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+   {
+    "UUIDs": [
+      "996184da-a411-4dd0-acb8-8c82b87506ce"
+    ],
+    "Booleans": [
+      {
+        "Key": "AllowImprovement",
+        "Value": true,
+        "modGuid": "ab03e26b-e176-417c-8d1b-af708433e590"
+      }
+    ]
+   }
+  ]
+}
