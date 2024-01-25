@@ -1,0 +1,5 @@
+new entry "MAG_GISH_ARCANE_ACUITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_GISH_ARCANE_ACUITY"
+data "StatusEffect" ""
